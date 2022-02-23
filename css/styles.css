@@ -1,0 +1,16 @@
+h1{
+    color: aqua;
+    text-align: right;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    color: black;
+    text-align: center;
+    font-style: italic;
+}
+ul{
+    color: blueviolet;
+    text-align: right;
+    font-style: oblique;
+}
